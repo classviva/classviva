@@ -1,5 +1,4 @@
 ### Hi there 👋
-我叫陈宇，来自软件工程2班，我平时喜欢跑步，刷B站，希望能和大家好好相处。
 <!--
 **classviva/classviva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
